@@ -7,6 +7,8 @@ This project combines Time Series Forecasting and Interactive Visualization to p
 
 We used both machine learning models and business intelligence tools to make stock trend predictions interpretable and actionable.
 
+Team Members  Munthaha Aryan Shivam Somanadha Sai Addepalli Naveen  Suhani Aditya
+
 **Project Goals**
 
 Analyze historical Walmart stock data
